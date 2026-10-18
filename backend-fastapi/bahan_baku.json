@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "nama_bahan": "Bawang Merah",
+    "kategori": "Bumbu",
+    "stok": 8,
+    "satuan": "kg"
+  },
+  {
+    "id": 2,
+    "nama_bahan": "Bawang Putih",
+    "kategori": "Bumbu",
+    "stok": 6,
+    "satuan": "kg"
+  },
+  {
+    "id": 3,
+    "nama_bahan": "Cabai Rawit Merah",
+    "kategori": "Bumbu",
+    "stok": 2,
+    "satuan": "kg"
+  },
+  {
+    "id": 4,
+    "nama_bahan": "Jahe Segar",
+    "kategori": "Bumbu",
+    "stok": 0,
+    "satuan": "kg"
+  },
+  {
+    "id": 5,
+    "nama_bahan": "Sawi Hijau",
+    "kategori": "Sayuran",
+    "stok": 5,
+    "satuan": "kg"
+  },
+  {
+    "id": 6,
+    "nama_bahan": "Wortel",
+    "kategori": "Sayuran",
+    "stok": 4,
+    "satuan": "kg"
+  },
+  {
+    "id": 7,
+    "nama_bahan": "Tomat Merah",
+    "kategori": "Sayuran",
+    "stok": 3,
+    "satuan": "kg"
+  },
+  {
+    "id": 8,
+    "nama_bahan": "Daun Bawang",
+    "kategori": "Sayuran",
+    "stok": 2,
+    "satuan": "ikat"
+  },
+  {
+    "id": 9,
+    "nama_bahan": "Daging Ayam Fillet",
+    "kategori": "Protein Hewani",
+    "stok": 10,
+    "satuan": "kg"
+  },
+  {
+    "id": 10,
+    "nama_bahan": "Daging Sapi",
+    "kategori": "Protein Hewani",
+    "stok": 1,
+    "satuan": "kg"
+  },
+  {
+    "id": 11,
+    "nama_bahan": "Telur Ayam",
+    "kategori": "Protein Hewani",
+    "stok": 7,
+    "satuan": "tray"
+  },
+  {
+    "id": 12,
+    "nama_bahan": "Ikan Nila",
+    "kategori": "Protein Hewani",
+    "stok": 0,
+    "satuan": "kg"
+  },
+  {
+    "id": 13,
+    "nama_bahan": "Tempe Papan",
+    "kategori": "Produk Olahan",
+    "stok": 6,
+    "satuan": "papan"
+  },
+  {
+    "id": 14,
+    "nama_bahan": "Tahu Putih",
+    "kategori": "Produk Olahan",
+    "stok": 3,
+    "satuan": "kotak"
+  },
+  {
+    "id": 15,
+    "nama_bahan": "Bakso Sapi",
+    "kategori": "Produk Olahan",
+    "stok": 5,
+    "satuan": "bungkus"
+  },
+  {
+    "id": 16,
+    "nama_bahan": "Santan Instan",
+    "kategori": "Produk Olahan",
+    "stok": 1,
+    "satuan": "liter"
+  },
+  {
+    "id": 17,
+    "nama_bahan": "Beras Pandan Wangi",
+    "kategori": "Bahan Kering",
+    "stok": 15,
+    "satuan": "kg"
+  },
+  {
+    "id": 18,
+    "nama_bahan": "Tepung Terigu",
+    "kategori": "Bahan Kering",
+    "stok": 8,
+    "satuan": "kg"
+  },
+  {
+    "id": 19,
+    "nama_bahan": "Gula Pasir",
+    "kategori": "Bahan Kering",
+    "stok": 0,
+    "satuan": "kg"
+  },
+  {
+    "id": 20,
+    "nama_bahan": "Mie Telur Kering",
+    "kategori": "Bahan Kering",
+    "stok": 3,
+    "satuan": "bungkus"
+  },
+  {
+    "id": 21,
+    "nama_bahan": "Minyak Goreng",
+    "kategori": "Minyak dan Cairan",
+    "stok": 12,
+    "satuan": "liter"
+  },
+  {
+    "id": 22,
+    "nama_bahan": "Kecap Manis",
+    "kategori": "Minyak dan Cairan",
+    "stok": 6,
+    "satuan": "botol"
+  },
+  {
+    "id": 23,
+    "nama_bahan": "Saus Tiram",
+    "kategori": "Minyak dan Cairan",
+    "stok": 2,
+    "satuan": "botol"
+  },
+  {
+    "id": 24,
+    "nama_bahan": "Cuka Masak",
+    "kategori": "Minyak dan Cairan",
+    "stok": 1,
+    "satuan": "botol"
+  }
+]
